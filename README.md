@@ -6,11 +6,10 @@
 
 ### Official Streamity.tv website: [Click here](https://streamity.tv))
 
-### (Xtream Api version: [Click here](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player))
-
-
 Streamity is an online webplayer. Watch IPTV Channels, movies TV series online on your browser,
 directly from your PC, phone or tablet, everywhere with no additional software required!
+### (Xtream Api version: [Click here](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player))
+
 
 ### Features
 - IPTV Url and EPG Url support
