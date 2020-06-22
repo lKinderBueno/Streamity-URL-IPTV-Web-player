@@ -5,6 +5,8 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/lKinderBueno/StreamityTV-Xtream)
 
 
+### Xtream Api version: [Click here](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player)
+
 
 Streamity is an online webplayer. Watch IPTV Channels, movies TV series online on your browser,
 directly from your PC, phone or tablet, everywhere with no additional software required!
@@ -35,7 +37,7 @@ directly from your PC, phone or tablet, everywhere with no additional software r
 
 
 ### Installation
-1. Download the latest release: [Click here](https://github.com/lKinderBueno/StreamityTV-Xtream/releases)
+1. Download the latest release: [Click here](https://github.com/lKinderBueno/Streamity-URL-IPTV-Web-player/releases)
 2. Extract everything in your domain folder (for example public_html)
 3. Run installer.php (for example domain.com/installer.php)
 4. Compile all the fields and then press on Install
