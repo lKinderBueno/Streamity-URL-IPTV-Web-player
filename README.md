@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/lKinderBueno/StreamityTV-Xtream)
 
 
-### Xtream Api version: [Click here](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player)
+### (Xtream Api version: [Click here](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player))
 
 
 Streamity is an online webplayer. Watch IPTV Channels, movies TV series online on your browser,
