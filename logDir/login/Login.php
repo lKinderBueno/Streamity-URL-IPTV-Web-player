@@ -104,10 +104,6 @@ if (isset($_POST["login"]))
     }
     setcookie("iptv", $iptv, time() + 720000, "/");
     
-    if($_POST['remember']==1){
-        setcookie("remember", true, time() + 720000, "/");
-    }else setcookie("remember", false, time() + 720000, "/");
-    
     session_start(); 
     $_SESSION["iptv"] = true;
     $_SESSION["iptv"] = $iptv;
@@ -127,6 +123,12 @@ if (isset($_POST["login"]))
     if (!$epgDb) 
         if (!$_COOKIE['epg']) 
         setcookie("epg", false, time() + 720000);
+        
+    if($_POST['remember']==1){
+        setcookie("remember", true, time() + 720000, "/");
+        $params = session_get_cookie_params();
+        setcookie(session_name(), $_COOKIE[session_name()], time() + 60*60*24*30, $params["path"], $params["domain"], $params["secure"], $params["httponly"]);
+    }else setcookie("remember", false, time() + 720000, "/");
 
     header("Location: dashboard.php");
 
