@@ -3,6 +3,7 @@
 ![](https://streamity.tv/asset/img/git-min.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/lKinderBueno/StreamityTV-Xtream)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CVT6HXLZ3YNSG&source=url)
 
 ### Official Streamity.tv website: [Click here](https://streamity.tv)
 
