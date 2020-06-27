@@ -1,4 +1,4 @@
-# Streamity.tv URL version
+# Streamity.tv URL version (by IPTVEditor.com dev)
 
 ![](https://streamity.tv/asset/img/git-min.png)
 
