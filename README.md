@@ -1,3 +1,6 @@
+### URL Version is discontinued. Please check the Xtream API version
+
+
 # Streamity.tv URL version (by IPTVEditor.com dev)
 
 ![](https://streamity.tv/asset/img/git-min.png)
@@ -6,6 +9,8 @@
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CVT6HXLZ3YNSG&source=url)
 
 ### Official Streamity.tv website: [Click here](https://streamity.tv)
+
+
 
 Streamity is an online webplayer. Watch IPTV Channels, movies TV series online on your browser,
 directly from your PC, phone or tablet, everywhere with no additional software required!
