@@ -1,4 +1,5 @@
 ### URL Version is discontinued. Please check the Xtream API version
+### (Xtream Api version: [Click here](https://github.com/lKinderBueno/Streamity-Xtream-IPTV-Web-player))
 
 
 # Streamity.tv URL version (by IPTVEditor.com dev)
